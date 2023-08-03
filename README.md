@@ -1,6 +1,7 @@
 # Driver Distraction Detection
 ## Introduction
 This project is helps in detecting driver distraction and drowsiness using a model trained on movinet.
+This can be scaled by embedding the model on a raspberry pi and using it in a car to detect driver distraction and drowsiness in real time.
 This project will be further extended to detect driver distraction during the nighttime while at the same time improving the accuracy and the speed of the model and published as a paper soon.
 
 # BlackSpot Detection
